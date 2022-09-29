@@ -82,37 +82,37 @@
 .fa-shop{
   padding-right:10px;
 }
-@media screen and (max-width:900px){
+@media screen and (max-width:600px){
   .main{
-    background-color:hsl(30, 38%, 92%);
+    background-color:hsl(30, 38%, 92%) !important;
   }
   .image{
-    height: 29rem;
-    width:85%;
-    position:relative;
-    left:2.1875rem;
-    top:1.25rem;
-    border-radius:1rem 1rem 0 0;
+    height: 29rem !important;
+    width:85% !important;
+    position:relative !important;
+    left:2.1875rem !important;
+    top:1.25rem !important;
+    border-radius:1rem 1rem 0 0 !important;
   }
   .text{
-    height:29rem;
-    width:85%;
-    position: relative;
-    right:38.30625rem;
-    background-color: white;
-    border-radius:0 0 1rem 1rem;
-    position: relative;
-    bottom:18.75rem;
+    height:29rem !important;
+    width:85% !important;
+    position: relative !important;
+    right:38.30625rem !important;
+    background-color: white !important;
+    border-radius:0 0 1rem 1rem !important;
+    position: relative !important;
+    bottom:18.75rem !important;
   }
   .para1{
-    width: 80%;
-    font-size:35px;
+    width: 80% !important;
+    font-size:35px !important;
   }
   .para2{
-    width: 80%;
-    font-size: 1rem;
+    width: 80% !important;
+    font-size: 1rem !important;
   }
   .btn{
-    padding: 1rem 6.75rem 1em 6.75rem;
+    padding: 1rem 6.75rem 1em 6.75rem !important;
   }
 }
